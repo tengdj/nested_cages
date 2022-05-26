@@ -1,12 +1,12 @@
+[submodule "MeshFix-V2.1"]
+	path = MeshFix-V2.1
+	url = git@github.com:alecjacobson/MeshFix-V2.1.git
 [submodule "collisiondetection"]
 	path = collisiondetection
-	url = https://github.com/evouga/collisiondetection.git
+	url = git@github.com:evouga/collisiondetection.git
 [submodule "eltopo"]
 	path = eltopo
-	url = https://github.com/leokollersacht/eltopo.git
+	url = git@github.com:leokollersacht/eltopo.git
 [submodule "libigl"]
 	path = libigl
-	url = https://github.com/libigl/libigl
-[submodule "MeshFix-v2.1"]
-	path = MeshFix-v2.1
-	url = https://github.com/alecjacobson/MeshFix-v2.1
+	url = git@github.com:libigl/libigl.git
